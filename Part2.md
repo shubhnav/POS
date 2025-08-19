@@ -1,15 +1,15 @@
 Offline-First Data Layer 
 
-[text](src/OfflineDataStore/Offline.ts)
+[file](src/OfflineDataStore/Offline.ts)
 
 Order Management System
 
-[text](src/store/cartSlice.ts)
+[file](src/store/cartSlice.ts)
 
 Print Queue Manager
 
-[text](src/store/PrinterSlice.ts)
+[file](src/store/PrinterSlice.ts)
 
 Synchronization Engine
 
-[text](src/Sync.ts)
+[file](src/Sync.ts)
